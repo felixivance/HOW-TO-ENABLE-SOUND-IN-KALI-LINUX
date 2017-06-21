@@ -1,0 +1,4 @@
+Type this in terminal
+
+
+systemctl --user enable pulseaudio
